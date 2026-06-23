@@ -1,2 +1,2 @@
 # apnacollege-demo
-Author- Nehaa Jakkampudi
+Author- Nehaa Jakkampudi (Apna college)
